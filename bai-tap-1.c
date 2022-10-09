@@ -1,5 +1,6 @@
 #include <stdio.h>
 // ĐÂY LÀ TÍNH TỔNG 2 SỐ
+//phan đề full về máy
 void tonghaiso(int a,int b) {
     int s;
     s=a+b;
